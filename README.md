@@ -1,1 +1,1 @@
-Data Strucutres and Algorithm learnings.
+Data Structures and Algorithm learnings.
